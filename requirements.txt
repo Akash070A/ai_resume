@@ -1,5 +1,6 @@
-streamli
+streamlit
 openai
-pandas
 PyPDF2
+pandas
 openpyxl
+python-dotenv
