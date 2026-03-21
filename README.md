@@ -15,12 +15,12 @@ ai_resume/
 ├── core/
 │   ├── pdf_parser.py    # PDF text extraction
 │   └── analyzer.py      # LLM call + result parsing
-│
 ├── ui/
 │   ├── styles.py        # All global CSS injection
 │   ├── landing.py       # Landing page (forms + upload)
 │   └── dashboard.py     # Results dashboard (filters, table, charts)
 │
+├── sample_resume        # Test data to run 
 └── utils/
     └── helpers.py       # Shared utilities (scoring, session reset)
 ```
